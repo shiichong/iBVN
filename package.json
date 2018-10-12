@@ -1,0 +1,36 @@
+{
+  "name": "inter-beauty-vietnam",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "ajv": "^6.5.4",
+    "ajv-keywords": "^3.2.0",
+    "bootstrap": "^4.1.3",
+    "classnames": "^2.2.6",
+    "flag-icon-css": "^3.2.0",
+    "jquery": "^1.12.4",
+    "multi-languages-url": "^1.1.2",
+    "peer": "^0.2.10",
+    "react": "^16.5.2",
+    "react-animated-number": "^0.4.4",
+    "react-bootstrap": "^0.32.4",
+    "react-devtools": "^3.4.0",
+    "react-dom": "^16.5.2",
+    "react-flag-icon-css": "^1.0.24",
+    "react-geolocated": "^2.4.0",
+    "react-loadable": "^5.5.0",
+    "react-modal": "^3.6.1",
+    "react-multi-lang": "^1.0.2",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "1.1.5",
+    "react-viewer": "^2.6.0",
+    "react-youtube": "^7.7.0",
+    "reactstrap": "^6.4.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
